@@ -1,0 +1,6 @@
+{
+  "name": "Marine Drive GP — Mumbai Coastal Bike Racing",
+  "description": "High-fidelity 3D sportbike racing along Mumbai's Marine Drive from Nariman Point to Girgaon Chowpatty with realistic Arabian Sea waves, day and night Queen's Necklace lighting, traffic density, and bike customization.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
